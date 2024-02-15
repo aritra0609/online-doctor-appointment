@@ -1,0 +1,3 @@
+INDEX VERSION 1.132
+C:\Users\Anjan\OneDrive\Desktop\JAVA PROJECT FULLSTACK FORM\Doctor's Clinic\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\82505332.index
+\Doctor_clinic\src\main\java

@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Doctor's Clinic</title>
+<style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+            text-align: center;
+            padding-top: 50px;
+            background-image: url('https://c1.wallpaperflare.com/preview/451/179/819/the-device-hospital-surgery-ambulance.jpg');
+    		background-size:contain;
+		    background-position: center;
+		    background-repeat: no-repeat;   
+    		width:98vw;
+    		height:100vh; 
+    		
+        }
+        
+        .container {
+            max-width: 600px;
+            margin: 0 auto;
+        }
+        
+        .btn {
+            display: inline-block;
+            padding: 10px 20px;
+            background-color: #007BFF;
+            color: #fff;
+            text-decoration: none;
+            border: none;
+            border-radius: 5px;
+            margin: 10px;
+            cursor: pointer;
+            
+        }
+        
+        .btn:hover {
+            background-color: #0056b3;
+        }
+        footer {
+		    background-color: #333;
+		    color: #fff;
+		    text-align: center;
+		    bottom:0;
+		    position:fixed;
+		    height:7vh;
+		    width:100%;
+			margin:0;
+			padding:0;
+   			
+}
+
+		ul {
+			  list-style: none;			  
+			  display: flex;
+    		  flex-direction: row;
+    		  text-align:center;
+		}
+
+		li {
+		    
+		    display: flex;
+    		flex-direction: row;
+    		
+    		text-align:center;
+    		margin-right:90px;
+		}
+    </style>
+</head>
+<body>
+<div class="container">
+        <h1>Welcome to the Doctor's Clinic</h1>
+        <p>Please select your role:</p>
+        
+        <a href="admin.jsp" class="btn">Admin</a>
+        <a href="patient.jsp" class="btn">Patient</a>
+        <a href="doctor.jsp" class="btn">Doctor</a>
+    </div>
+       <footer>
+        <ul>
+        	<li>Name of the contributors:- </li>
+            <li>Aritra Ganguly</li>
+            <li>Arijit Char</li>
+            <li>Rivu Basu</li>
+            <li>Soham Mitra</li>
+            <li>Toufique Islam</li>           
+        </ul>
+    </footer>
+</body>
+</html>

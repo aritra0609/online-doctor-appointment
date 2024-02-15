@@ -1,0 +1,6 @@
+INDEX VERSION 1.132+C:\Users\Anjan\OneDrive\Desktop\JAVA PROJECT FULLSTACK FORM\Doctor's Clinic\.metadata\.plugins\org.eclipse.jdt.core
+622187199.index
+3276858937.index
+1865797976.index
+3351432231.index
+1222151034.index
